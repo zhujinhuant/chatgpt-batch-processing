@@ -5,6 +5,8 @@
 // @description  在页面上添加一个悬浮的文本框和按钮，模块化设置文本框内容和模拟鼠标点击事件
 // @author       Lazy Zhu
 // @match        https://chat.openai.com/*
+// @updateURL    https://github.com/zhujinhuant/chatgpt-batch-processing/edit/main/batch.js
+// @downloadURL  https://github.com/zhujinhuant/chatgpt-batch-processing/edit/main/batch.js
 // @grant        none
 // ==/UserScript==
 
